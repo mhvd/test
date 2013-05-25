@@ -10,8 +10,9 @@
 A simple PhoneGap Build application2.
 </description>
 
-<author href="https://example.com" email="you@example.com">
+<author href="https://michielvandijk.nl" email="you@example.com">
 Your Name
 </author>
+<icon src="http://www.michielvandijk.nl/images/icon.png" />
 
 </widget>
