@@ -13,6 +13,6 @@ A simple PhoneGap Build application2.
 <author href="https://michielvandijk.nl" email="you@example.com">
 Your Name
 </author>
-<icon src="http://www.michielvandijk.nl/images/icon.png" />
+<icon src="http://www.michielvandijk.nl/images/icon.png" width="245px" height="245px" />
 
 </widget>
